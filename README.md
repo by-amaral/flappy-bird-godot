@@ -17,7 +17,7 @@ O jogo também possui sistema de melhor pontuação, salvando o recorde localmen
 1. Clone ou baixe este repositório.
 
 ```bash
-git clone https://github.com/4MRL/flappy_bird_game_test.git
+git clone https://github.com/by-amaral/flappy-bird-godot.git
 ```
 
 2. Abra o **Godot 4**.
