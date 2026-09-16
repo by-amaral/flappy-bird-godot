@@ -27,7 +27,7 @@ git clone https://github.com/by-amaral/flappy-bird-godot.git
 4. Selecione o arquivo:
 
 ```text
-flappy-bird-atv-013/project.godot
+project.godot
 ```
 
 5. Abra o projeto.
