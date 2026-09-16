@@ -1,4 +1,4 @@
-# Flappy Bird - Atividade 013
+# Flappy Bird - Atividade Acadêmica (UEA)
 
 Este repositório contém um projeto desenvolvido em **Godot 4** como parte da **Atividade 013: Aprendizado usando IA**.
 
